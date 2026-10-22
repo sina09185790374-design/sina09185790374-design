@@ -24,6 +24,9 @@ Every project below **runs in production first** (my computer-services shop + a 
 | [n8n Persian Pack](https://github.com/sina09185790374-design/n8n-persian-automation-pack) | Ready-to-import n8n workflows for Iranian businesses | n8n |
 | [Trading Research Agent](https://github.com/sina09185790374-design/crypto-trading-research-agent) | EMA/SMA/MACD backtesting + 2% risk paper trading — research only | Python |
 | [Browser Price Agent](https://github.com/sina09185790374-design/browser-price-agent) | Price monitor & clean web extractor (تومان/ریال/$) | Python |
+| [Persian Prompt Enhancer](https://github.com/sina09185790374-design/persian-prompt-enhancer) | Turns raw task messages into professional structured prompts | Python |
+| [Web to Markdown Agent](https://github.com/sina09185790374-design/web-to-markdown-agent) | Any web page → clean agent-ready Markdown | Python |
+| [Agent Skills FA](https://github.com/sina09185790374-design/agent-skills-fa) | 5 Persian agent skills — caption, shop audit, lead follow-up, calendar, quotes | Skills |
 
 ## 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
