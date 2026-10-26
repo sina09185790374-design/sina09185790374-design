@@ -28,6 +28,7 @@ Every project below **runs in production first** (my computer-services shop + a 
 | [Web to Markdown Agent](https://github.com/sina09185790374-design/web-to-markdown-agent) | Any web page → clean agent-ready Markdown | Python |
 | [Agent Skills FA](https://github.com/sina09185790374-design/agent-skills-fa) | 5 Persian agent skills — caption, shop audit, lead follow-up, calendar, quotes | Skills |
 | [Freelance Gig Scout](https://github.com/sina09185790374-design/freelance-gig-scout) | Score freelance gigs 1-5 against your skills & budget, with exclusion guardrail | Python |
+| [Agent Task Runner](https://github.com/sina09185790374-design/agent-task-runner) | Idempotent task loop for local agents — retries, timeout, JSONL audit log | Python |
 
 ## 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
