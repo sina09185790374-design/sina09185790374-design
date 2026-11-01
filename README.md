@@ -33,6 +33,7 @@ Every project below **runs in production first** (my computer-services shop + a 
 | [Slop Guard](https://github.com/sina09185790374-design/slop-guard) | Anti-AI-slop quality gate for Persian/English captions — 11 checks, 0-100 score | Python |
 | [Agent Self-Audit](https://github.com/sina09185790374-design/agent-self-audit) | Self-audit gate for agent outputs — secret/placeholder scan, CI exit codes | Python |
 | [Video Spec Render](https://github.com/sina09185790374-design/video-spec-render) | Declarative JSON scene spec → rendered MP4, Persian-safe overlays | Python |
+| [Agent Plan Guard](https://github.com/sina09185790374-design/agent-plan-guard) | Pre-flight safety gate + SHA-256 audit trail for autonomous agents | Python |
 | [Agent Memory](https://github.com/sina09185790374-design/agent-memory) | Persistent memory file for local agents — supersede-never-edit, digest/prune | Python |
 
 ## 🛠️ Tech
