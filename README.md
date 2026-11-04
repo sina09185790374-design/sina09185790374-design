@@ -35,6 +35,7 @@ Every project below **runs in production first** (my computer-services shop + a 
 | [Video Spec Render](https://github.com/sina09185790374-design/video-spec-render) | Declarative JSON scene spec → rendered MP4, Persian-safe overlays | Python |
 | [Agent Plan Guard](https://github.com/sina09185790374-design/agent-plan-guard) | Pre-flight safety gate + SHA-256 audit trail for autonomous agents | Python |
 | [Agent Memory](https://github.com/sina09185790374-design/agent-memory) | Persistent memory file for local agents — supersede-never-edit, digest/prune | Python |
+| [Agent Design Taste](https://github.com/sina09185790374-design/agent-design-taste) | Design-taste gate for AI-built UIs — 16 checks + steer/review skill, 0-100 score | Python |
 
 ## 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
