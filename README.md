@@ -36,6 +36,7 @@ Every project below **runs in production first** (my computer-services shop + a 
 | [Agent Plan Guard](https://github.com/sina09185790374-design/agent-plan-guard) | Pre-flight safety gate + SHA-256 audit trail for autonomous agents | Python |
 | [Agent Memory](https://github.com/sina09185790374-design/agent-memory) | Persistent memory file for local agents — supersede-never-edit, digest/prune | Python |
 | [Agent Design Taste](https://github.com/sina09185790374-design/agent-design-taste) | Design-taste gate for AI-built UIs — 16 checks + steer/review skill, 0-100 score | Python |
+| [Agent Code Recon](https://github.com/sina09185790374-design/agent-code-recon) | Evidence-backed how-it-works briefs — file:line citations, limits section | Python |
 
 ## 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
