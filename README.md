@@ -39,6 +39,7 @@ Every project below **runs in production first** (my computer-services shop + a 
 | [Agent Code Recon](https://github.com/sina09185790374-design/agent-code-recon) | Evidence-backed how-it-works briefs — file:line citations, limits section | Python |
 | [Agent Humanizer](https://github.com/sina09185790374-design/agent-humanizer) | Two-pass humanizer for AI-written text (EN + FA) — strip tells, rebuild toward STE80, before/after score | Python |
 | [Agent Diverge](https://github.com/sina09185790374-design/agent-diverge) | Name the average pick, then diverge — seeded alternatives + cliché-density check gate (EN + FA) | Python |
+| [Agent Activity Map](https://github.com/sina09185790374-design/agent-activity-map) | Live map of what an agent session did — ASCII station ring, worn spokes, error dots, context bar | Python |
 
 ## 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
