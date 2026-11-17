@@ -40,6 +40,10 @@ Every project below **runs in production first** (my computer-services shop + a 
 | [Agent Humanizer](https://github.com/sina09185790374-design/agent-humanizer) | Two-pass humanizer for AI-written text (EN + FA) — strip tells, rebuild toward STE80, before/after score | Python |
 | [Agent Diverge](https://github.com/sina09185790374-design/agent-diverge) | Name the average pick, then diverge — seeded alternatives + cliché-density check gate (EN + FA) | Python |
 | [Agent Activity Map](https://github.com/sina09185790374-design/agent-activity-map) | Live map of what an agent session did — ASCII station ring, worn spokes, error dots, context bar | Python |
+| [Agent View](https://github.com/sina09185790374-design/agent-view) | Give an AI agent eyes — compact pointable screen description, describe/point/diff/check | Python |
+| [Agent Legacy Bridge](https://github.com/sina09185790374-design/agent-legacy-bridge) | Teach an agent to talk to a dumb legacy device — protocol as JSON spec, demo-first, writes need human confirm | Python |
+| [Agent Publish Hub](https://github.com/sina09185790374-design/agent-publish-hub) | One episode, many platforms — plan, publish, measure, review; dedupe guard, day-1/3/7 review cards | Python |
+| [Agent Shield](https://github.com/sina09185790374-design/agent-shield) | Exposure audit before you ship — secret + leakage scan, exposure score 0–100, redaction mode | Python |
 
 ## 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
