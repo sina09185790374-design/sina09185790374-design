@@ -44,6 +44,7 @@ Every project below **runs in production first** (my computer-services shop + a 
 | [Agent Legacy Bridge](https://github.com/sina09185790374-design/agent-legacy-bridge) | Teach an agent to talk to a dumb legacy device — protocol as JSON spec, demo-first, writes need human confirm | Python |
 | [Agent Publish Hub](https://github.com/sina09185790374-design/agent-publish-hub) | One episode, many platforms — plan, publish, measure, review; dedupe guard, day-1/3/7 review cards | Python |
 | [Agent Shield](https://github.com/sina09185790374-design/agent-shield) | Exposure audit before you ship — secret + leakage scan, exposure score 0–100, redaction mode | Python |
+| [Agent Scene Code](https://github.com/sina09185790374-design/agent-scene-code) | Video as code — scenes as JSON, SVG frames, frame-by-frame viewer with on-frame notes | Python |
 
 ## 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
